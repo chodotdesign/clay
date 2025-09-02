@@ -10,7 +10,7 @@ const apiEmail = "chodotdesign@gmail.com"; // Ganti dengan email yang kalian gun
 const accountID = "a992e6825fa4091b36be93406798e786"; // Ganti dengan Account ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
 const zoneID = "24a77735fce635e8cc74bcd9517b242d"; // Ganti dengan Zone ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
 let isApiReady = false;
-let proxyIP = "";
+let proxyIP = "91.192.81.154:2053";
 let cachedProxyList = [];
 
 // Constant
